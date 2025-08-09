@@ -11,5 +11,13 @@ function adicionAmigo() {
         return;
 
     }
+    amigos.push(nombre);
+    input.value ="";
+    mostrarlista();
 }
 
+function mostrarlista(){
+    const lista = document.getElementById("listaAmigos")
+    lista.innerHTML="";
+    
+}
