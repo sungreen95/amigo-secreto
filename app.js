@@ -36,11 +36,11 @@ function sortearAmigo() {
         alert("No hay nombres en la lista para sortear.");
         return;
     }
-
+// escoger aleatoridad 
     const indiceAleatorio = Math.floor(Math.random() * amigos.length);
     const amigoSecreto = amigos[indiceAleatorio];
 
     const li = document.createElement("li");
-    li.textContent = `🎉 El amigo secreto es: ${amigoSecreto} 🎉`;
+    li.textContent = ` El amigo secreto es: ${amigoSecreto} `;
     resultado.appendChild(li);
 }
