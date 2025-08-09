@@ -45,4 +45,4 @@ Permite a los usuarios agregar nombres a una lista y seleccionar al azar un gana
 
 _**Corrigiendo Errores**
 
-##### Gracias ala complejidad del proyecto pude enter varias funcionalidades que me permitieron entender y aclarar durante el trabajo; gracias alura por esta oportunidad de mejora!!  
+##### Gracias a la complejidad del proyecto pude enter varias funcionalidades que me permitieron entender y aclarar durante el trabajo; gracias alura por esta oportunidad de mejora!!  
